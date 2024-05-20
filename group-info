@@ -1,0 +1,21 @@
+[
+     {
+       "name" : "Core",
+       "rank" : 0
+     },
+     {
+       "name" : "Cosmetic",
+       "rank" : 1
+     },
+     {"name" : "Youtube",
+      "rank" : 2
+     },
+     {
+       "name" : "Gameplay",
+       "rank" : 3
+     },
+     {
+       "name" : "Libraries",
+       "rank" : 4
+     }
+   ]

@@ -62,5 +62,60 @@
     "git_path": "Yizzii/YizziCamModV2",
     "group": "Youtube",
     "download_url": "https://github.com/Yizzii/YizziCamModV2/releases/download/beta1.0.8/YizziCamModV2.dll"
-  }
+  },
+  {
+    "name": "Gorilla Shirts",
+    "author": "Developer9998",
+    "version": "1.1.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "developer9998/GorillaShirts",
+    "group": "Gameplay",
+    "download_url": "https://github.com/developer9998/GorillaShirts/releases/download/1.1.1/GorillaShirts.zip"
+  },
+  {
+    "name": "Holdable Pad",
+    "author": "Developer9998",
+    "version": "1.4.3",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "developer9998/HoldablePad",
+    "group": "Gameplay",
+    "download_url": "https://github.com/developer9998/HoldablePad/releases/download/1.4.3/HoldablePad.zip"
+  },
+  {
+    "name": "Mono Sandbox Mod",
+    "author": "Monosphere",
+    "version": "1.2.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "Monosphere/Mono-Sandbox-Mod",
+    "group": "Gameplay",
+    "download_url": "https://github.com/Monosphere/Mono-Sandbox-Mod/releases/download/V1.2.1/MonoSandbox.dll"
+  },
+  {
+    "name": "Gorilla Friends",
+    "author": "RusJJ",
+    "version": "1.2.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "RusJJ/GorillaFriends",
+    "group": "Fun",
+    "download_url": "https://github.com/RusJJ/GorillaFriends/releases/download/1.2.0/GorillaFriends.zip"
+  },
+  {
+    "name": "Bark",
+    "author": "KyleTheScientist",
+    "version": "1.5.1",
+    "dependencies": [
+      "Utilla",
+    ],
+    "git_path": "KyleTheScientist/Bark",
+    "group": "Fun",
+    "download_url": "https://github.com/KyleTheScientist/Bark/releases/download/v1.5.1/Bark-1.5.1.dll"
+  },
 ]

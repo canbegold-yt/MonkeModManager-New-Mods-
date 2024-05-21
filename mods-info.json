@@ -103,5 +103,19 @@
          "Extenject",
          "Utilla"
         ]
+     },
+            {
+        "name" : "Gorilla Shirts",
+        "tag" : "",
+        "gitPath" : "developer9998/GorillaShirts",
+        "releaseId" : 0,
+        "author" : "developer9998",
+        "group" : "Cosmetic",
+        "dependencies" : [
+         "Newtonsoft.JSON",
+         "Bepinject",
+         "Extenject",
+         "Utilla"
+        ]
      }
    ]

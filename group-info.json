@@ -14,8 +14,12 @@
        "name" : "Gameplay",
        "rank" : 3
      },
+          {
+       "name" : "Fun",
+       "rank" : 4
+     },
      {
        "name" : "Libraries",
-       "rank" : 4
+       "rank" : 5
      }
    ]

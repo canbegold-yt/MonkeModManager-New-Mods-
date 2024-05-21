@@ -113,6 +113,8 @@
     "version": "1.5.1",
     "dependencies": [
       "Utilla",
+      "Bepinject",
+      "Extenject"
     ],
     "git_path": "KyleTheScientist/Bark",
     "group": "Fun",

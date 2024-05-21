@@ -1,0 +1,11 @@
+C:\Users\Theoz\Downloads\MonkeModManager-1.3.1(1) againnn\MonkeModManager-1.3.1\MonkeModManager\obj\Debug\MonkeModManager.csproj.AssemblyReference.cache
+C:\Users\Theoz\Downloads\MonkeModManager-1.3.1(1) againnn\MonkeModManager-1.3.1\MonkeModManager\obj\Debug\MonkeModManager.FormSelectPlatform.resources
+C:\Users\Theoz\Downloads\MonkeModManager-1.3.1(1) againnn\MonkeModManager-1.3.1\MonkeModManager\obj\Debug\MonkeModManager.Properties.Resources.resources
+C:\Users\Theoz\Downloads\MonkeModManager-1.3.1(1) againnn\MonkeModManager-1.3.1\MonkeModManager\obj\Debug\MonkeModManager.csproj.GenerateResource.cache
+C:\Users\Theoz\Downloads\MonkeModManager-1.3.1(1) againnn\MonkeModManager-1.3.1\MonkeModManager\obj\Debug\MonkeModManager.csproj.CoreCompileInputs.cache
+C:\Users\Theoz\Downloads\MonkeModManager-1.3.1(1) againnn\MonkeModManager-1.3.1\MonkeModManager\bin\Debug\MonkeModManager.exe.config
+C:\Users\Theoz\Downloads\MonkeModManager-1.3.1(1) againnn\MonkeModManager-1.3.1\MonkeModManager\bin\Debug\MonkeModManager.exe
+C:\Users\Theoz\Downloads\MonkeModManager-1.3.1(1) againnn\MonkeModManager-1.3.1\MonkeModManager\bin\Debug\MonkeModManager.pdb
+C:\Users\Theoz\Downloads\MonkeModManager-1.3.1(1) againnn\MonkeModManager-1.3.1\MonkeModManager\obj\Debug\MonkeModManager.exe
+C:\Users\Theoz\Downloads\MonkeModManager-1.3.1(1) againnn\MonkeModManager-1.3.1\MonkeModManager\obj\Debug\MonkeModManager.pdb
+C:\Users\Theoz\Downloads\MonkeModManager-1.3.1(1) againnn\MonkeModManager-1.3.1\MonkeModManager\obj\Debug\MonkeModManager.FormMainBG.resources

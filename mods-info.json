@@ -133,4 +133,195 @@
     "group": "Monke Dimensions",
     "download_url": "https://github.com/Chin0303/Monke-Dimensions/releases/download/1.1.0/Monke.Dimensions.zip"
   },
+  {
+    "name": "Banana Hook",
+    "author": "Graicc",
+    "version": "1.3.1",
+    "git_path": "Graicc/BananaHook",
+    "group": "Libraries",
+    "download_url": "https://github.com/Graicc/BananaHook/releases/download/1.3.1/BananaHook.zip"
+  },
+  {
+    "name": "Default Folder",
+    "author": "@canbegold_yt",
+    "version": "null",
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1220846232671621172/1243005684073758811/Default.zip?ex=664fe6c1&is=664e9541&hm=c040fbbabe3bf30e0226beecc834c1b81e73c0a56e655b12a56f210f49feafa8&"
+  },
+  {
+    "name": "Only Up",
+    "author": "@burntcrstymac",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592226511683606/1219096040259452948/onlyup.dimension?ex=664f4569&is=664df3e9&hm=3f64353cae1b6febf4c3500eaa9fa972c1fa27160694e9f975fd75bf9b97c83f&"
+  },
+  {
+    "name": "Japanese Convenience Store",
+    "author": "@fx1l_l3af",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592176997941290/1212547480466751488/japanese_conveniene_store.dimension?ex=664fd657&is=664e84d7&hm=1393c0dcdbf965f295006755d56eaa3f224f072bf8c54f3454a1615f79baac82&"
+  },
+  {
+    "name": "Strange Playground",
+    "author": "@n5owls",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592176997941290/1215822624622379139/playground.dimension?ex=664f3a4e&is=664de8ce&hm=a46b354beaab089379352e2adae8704117ca1e5d1ce0cfff79ff216d36d624af&"
+  },
+  {
+    "name": "City Block",
+    "author": "@goofinglor",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592226511683606/1205968757126602752/city_block.dimension?ex=664fa26d&is=664e50ed&hm=22e371644ce0b804453b85e2d6e3ab0559cee3746021236f933dedb923f93a64&"
+  },
+  {
+    "name": "Wild West",
+    "author": "@goofinglor",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592226511683606/1203664914296872960/wildwest.dimension?ex=664fd28e&is=664e810e&hm=147045b11a3ac2c91b6db0a1082edc167b5b05ca3d78303a6e30c33cec0dd043&"
+  },
+  {
+    "name": "Bikini Bottom",
+    "author": "@thegoodman / erik1515",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592226511683606/1194180753450340432/bikinibottom.dimension?ex=664f98be&is=664e473e&hm=596e1619c7ab2907f18e700f72a53703f149f6887758f404aeba482df1c4f372&"
+  },
+  {
+    "name": "De Dust",
+    "author": "@chin0303",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592226511683606/1193576532405391460/de_dust.dimension?ex=664f6044&is=664e0ec4&hm=bce2d8e81215468325c5758945d20044e304aef2673645898d7f87d480e4a0a5&"
+  },
+  {
+    "name": "Minecraft Mineshaft",
+    "author": "@chin0303",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592226511683606/1193276691456466974/mineshaft.dimension?ex=664f9a85&is=664e4905&hm=cea0bdb82ac28d6760a7402dab2e082b97fef3930b941a8685206b2f8f67e1b4&"
+  },
+  {
+    "name": "Dune Dessert",
+    "author": "@fx1l_l3af",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592176997941290/1215099478822883388/dune_dessert.dimension?ex=664f3bd3&is=664dea53&hm=6e240fe31e98d3420f69081ee944d0ee4c5eb8e0cfdadae67b293e8cc427dd00&"
+  },
+  {
+    "name": "Giant Minecraft Map",
+    "author": "@fx1l_l3af",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592176997941290/1212569992076460123/giant_minecraft_map.dimension?ex=664f428e&is=664df10e&hm=cd8f23076967874ed63c914e49c9b3e8f310e2c3da76af09c0295ff0a6f4a333&"
+  },
+  {
+    "name": "FNAF 2 Map",
+    "author": "@gamercreacher_yt",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592176997941290/1211377488668790855/fanf2map.dimension?ex=664f8933&is=664e37b3&hm=e93804b20f779ed4fc290b55bc2cceabac1b543965a57b30e70e550cb3510f4b&"
+  },
+  {
+    "name": "Totally Forest",
+    "author": "@lethalshotgun",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592176997941290/1207184803858882600/gorilla_tag_forest.dimension?ex=664f71b5&is=664e2035&hm=472272a29bb601aea577c85e535b4bb97beed65cc748fe1f066b1ad23141fa6b&"
+  },
+  {
+    "name": "Default Roblox Obby",
+    "author": "@supersiv11",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592176997941290/1205995710743322724/roblox_default_obby.dimension?ex=664fbb87&is=664e6a07&hm=90f37aa319a5b0febbc58bede6fbd3cc642e92e02ce87554ec9726cf6bce59b6&"
+  },
+  {
+    "name": "Tree Parkour",
+    "author": "@anundefineduser",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592226511683606/1221258593945260133/tree_parkour.dimension?ex=664f3a72&is=664de8f2&hm=49e70e2a07a6599ec955423385c457ad298892ba30643700f390c295c62bddcc&"
+  },
+  {
+    "name": "No Weenie Parking Anytime",
+    "author": "@anundefineduser",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592176997941290/1219097906297045062/no_weenie_parking_anytime.dimension?ex=664f4726&is=664df5a6&hm=0ee8646c98807fc765a916286508c1f8c92ada044ae3c0d231afc250778996b8&"
+  },
+  {
+    "name": "Cat Tree (Personal Favorite)",
+    "author": "@lxv3rrrr",
+    "version": "null",
+    "dependencies": [
+      "Default Folder"
+    ],
+    "git_path": "null",
+    "group": "Monke Dimensions",
+    "download_url": "https://cdn.discordapp.com/attachments/1178592176997941290/1221293939798315098/cat_tree.dimension?ex=664f5b5d&is=664e09dd&hm=29123d448ebb7e7e28944678bc92eb4a7aee10bc6fb980f4dd61357ef50e28dc&"
 ]
